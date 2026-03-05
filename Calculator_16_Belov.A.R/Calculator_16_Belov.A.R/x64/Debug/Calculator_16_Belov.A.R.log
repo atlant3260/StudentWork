@@ -1,0 +1,5 @@
+﻿  Calculator_16_Belov.A.R.cpp
+C:\Users\student\source\repos\Calculator_16_Belov.A.R\Calculator_16_Belov.A.R\Calculator_16_Belov.A.R.cpp(25,9): error C4235: использовано нестандартное расширение: ключевое слово "__asm" данной архитектурой не поддерживается
+C:\Users\student\source\repos\Calculator_16_Belov.A.R\Calculator_16_Belov.A.R\Calculator_16_Belov.A.R.cpp(25,15): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\student\source\repos\Calculator_16_Belov.A.R\Calculator_16_Belov.A.R\Calculator_16_Belov.A.R.cpp(26,13): error C2059: синтаксическая ошибка: строка
+C:\Users\student\source\repos\Calculator_16_Belov.A.R\Calculator_16_Belov.A.R\Calculator_16_Belov.A.R.cpp(43,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
